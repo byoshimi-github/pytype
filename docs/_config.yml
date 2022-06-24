@@ -1,5 +1,8 @@
 theme: jekyll-theme-minimal
 
+# Google analytics
+google_analytics: G-G896Q7VERJ
+
 defaults:
   - scope:
       path: developers
